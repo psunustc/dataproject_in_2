@@ -1,0 +1,8 @@
+---
+title: "Data_Description"
+author: "peng"
+date: "February 2, 2015"
+output: html_document
+---
+
+As described in the dataset website at snap.stanford.edu: "Network was collected by crawling Amazon website. It is based on Customers Who Bought This Item Also Bought feature of the Amazon website. If a product i is frequently co-purchased with product j, the graph contains a directed edge from i to j. The data was collected in March 02 2003.""
